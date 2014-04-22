@@ -1,0 +1,14 @@
+{
+	"category" : "SWT2014-ProjectXX",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SwtDemo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
